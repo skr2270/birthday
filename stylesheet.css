@@ -1,6 +1,6 @@
 body {
-	/*background-color: #FFDAB9;	*/
-	background-color: #000;
+	/*background-color: #E8DAEF;	*/
+	background-color: #E8DAEF;
 	-webkit-transition:background-color linear 5s;
 	-moz-transition:background-color linear 5s;
 	-o-transition:background-color linear 5s;
@@ -12,7 +12,7 @@ body {
 	display: none;
 }
 .peach {
-	background-color: #FFDAB9;
+	background-color: #E8DAEF;
 	
 }
 .peach-after {
@@ -25,90 +25,90 @@ body {
 
 @-webkit-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #E8DAEF;
 	}
 	25%{
 		background-color: #FFE4B5;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #E8DAEF;
 	}
 	75%{
 		background-color: #FFEFD5;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #E8DAEF;
 	}
 }
 @-moz-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #E8DAEF;
 	}
 	25%{
 		background-color: #FFE4B5;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #E8DAEF;
 	}
 	75%{
 		background-color: #FFEFD5;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #E8DAEF;
 	}
 }
 
 @-o-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #E8DAEF;
 	}
 	25%{
 		background-color: #FFE4B5;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #E8DAEF;
 	}
 	75%{
 		background-color: #FFEFD5;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #E8DAEF;
 	}
 }
 
 @-ms-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #E8DAEF;
 	}
 	25%{
 		background-color: #FFE4B5;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #E8DAEF;
 	}
 	75%{
 		background-color: #FFEFD5;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #E8DAEF;
 	}
 }
 
 @keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #E8DAEF;
 	}
 	25%{
 		background-color: #FFE4B5;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #E8DAEF;
 	}
 	75%{
 		background-color: #FFEFD5;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #E8DAEF;
 	}
 }
 
@@ -1113,6 +1113,12 @@ audio {
 }
 #b7,#b77{
 	background-image: url('b7.png');
+}
+#b8,#b88{
+	background-image: url('b8.png');
+}
+#b9,#b99{
+	background-image: url('b9.png');
 }
 .balloons-rotate-behaviour-one {
 	-webkit-animation: balloons_rotate_one linear 10s infinite;
